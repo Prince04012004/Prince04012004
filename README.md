@@ -14,8 +14,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🚀 My Projects
 
 <table>
@@ -23,7 +21,7 @@
 
 <td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80">
+<img src="https://raw.githubusercontent.com/Prince04012004/Prince04012004/main/assets/ping-logo.png" width="100" style="border-radius:20px;" />
 
 ### 💬 Ping Chat
 > Real-time chat application — talk to anyone, instantly!
@@ -39,12 +37,12 @@
 
 <td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
+<img src="https://raw.githubusercontent.com/Prince04012004/Prince04012004/main/assets/budget-logo.png" width="100" style="border-radius:20px;" />
 
 ### 💰 Budget Box
 > Smart budget tracker — take control of your money!
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://budget-box-frontend-eta.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-7B2FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://budget-box-frontend-eta.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince04012004/budget-frontend)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -57,8 +55,6 @@
 </table>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -98,8 +94,6 @@
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
